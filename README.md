@@ -59,16 +59,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munazza-a11&show_icons=true&theme=tokyonight" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=munazza-a11&theme=github-compact" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munazza-a11&theme=tokyonight" />
-</p>
-
 
 
 ---
 
 ## ⚡ Fun Fact
-🧠 I enjoy breaking AI models, analyzing malware, and turning security theory into real-world defense.
+🧠 I enjoy reading, researching along with analyzing malware, and turning security theory into real-world defense.
