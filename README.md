@@ -56,12 +56,6 @@
 - 🦠 **Malware Reverse Engineering Labs**
 - 🔍 **SOC Investigation Case Studies**
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=munazza-a11&theme=github-compact" />
-</p>
-
 
 ---
 
